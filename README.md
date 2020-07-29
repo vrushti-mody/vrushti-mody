@@ -6,7 +6,7 @@ I am a CS graduate with a passion for Full stack Development, AI/ML, competitive
 
 I am a prominent contributor to the repository called "my life"; I built its foundation and choose the contents that can be merged into it. I am an adventure-seeker, [blogger](https://blog.vrushtimody.me) and love to turn information into action through open-source projects.
 
-[Join me](mailto:vrushtimody6@gmail.com) in my journet to convert caffiene to code 🌱
+[Join me](mailto:vrushtimody6@gmail.com) in my journey to convert caffiene to code 🌱
 
 
 
