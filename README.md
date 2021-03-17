@@ -4,8 +4,10 @@ My name is [Vrushti Mody](https://vrushtimody.me).
 
 I am a CS graduate with a passion for Full stack Development, AI/ML, competitive coding and Open Source Development! ✨
 
-I am a prominent contributor to the repository called "my life"; I built its foundation and choose the contents that can be merged into it. I am an adventure-seeker, [blogger](https://blog.vrushtimody.me) and love to turn information into action through open-source projects.
+The engine of technology is powered by my curiosity, fueled with my passion and ignited by the spark of my skills. I am an adventure-seeker, [blogger](https://blog.vrushtimody.me) and love to turn information into action through open-source projects.
 
+ I love connecting and collaborating with new people and obtaining different perspectives to a problem  – nothing really interesting is ever built alone!
+ 
 [Join me](mailto:vrushtimody6@gmail.com) in my journey to convert caffiene to code 🌱
 
 
